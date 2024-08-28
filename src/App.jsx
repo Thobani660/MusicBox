@@ -10,12 +10,7 @@ function App() {
 
   return (
     <>
-       <BrowserRouter>
-          <Routes>
-            <Route index element={<Home/>}/>
-
-          </Routes>
-       </BrowserRouter>
+      <h1>hi</h1>
     </>
   )
 }
